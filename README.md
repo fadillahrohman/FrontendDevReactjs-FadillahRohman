@@ -114,6 +114,3 @@ restaurants/
 ├── tsconfig.json
 └── vite.config.ts
 ```
-
-```
-```
